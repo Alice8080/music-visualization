@@ -2,6 +2,14 @@
 
 Задание размещено на GitHub Pages: [alice8080.github.io/music-visualization](https://alice8080.github.io/music-visualization/). Плеер с визуализацией музыки.
 
+Пример визуализации:
+
+![Пример 1](/src/assets/img/example.png)
+
+В мобильной версии:
+
+![Пример 2](/src/assets/img/mobile-example.png)
+
 ### Стэк
 
 HTML5, JavaScript, CSS3. Для взаимодействия с треками использовалось [Web Audio API](https://developer.mozilla.org/ru/docs/Web/API/Web_Audio_API), для визуализации использовалась библиотека [Wave.js](https://github.com/foobar404/Wave.js).
