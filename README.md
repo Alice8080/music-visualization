@@ -4,11 +4,9 @@
 
 Пример визуализации:
 
-![Пример 1](/src/assets/img/example.png)
+![Пример 1](/src/assets/img/example-1.png)
 
-В мобильной версии:
-
-![Пример 2](/src/assets/img/mobile-example.png)
+![Пример 2](/src/assets/img/example-2.png)
 
 ### Стэк
 
